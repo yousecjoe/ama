@@ -1,8 +1,8 @@
-# holman/ama
+# yousecjoe/ama
 
 A repository to ask [@yousecjoe](https://twitter.com/Y0UNGSECURITY) anything.
 
-I [worked at ]() for X years and have [written](http://zachholman.com) and [spoken](http://zachholman.com/talks) a lot about building company culture, improving your development workflow, and really important. If you have a question you're interested in asking, this is just the spot for you.
+I've worked in Infrastructure and Cybersecurity for nearly 30 years and have [written](http://youngsecurity.net/blog) and [spoken](http://youngsecurity.net/talks) about building infrastructure for high-performance computing and improving development workflow. If you have a question you're interested in asking, this is just the spot for you.
 
 ### Ask a question
 
